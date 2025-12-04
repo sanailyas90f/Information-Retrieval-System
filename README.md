@@ -227,6 +227,7 @@ python -m src.test_preprocess
 ```
 python -m src.indexer
 ```
+```
 python -m src.test_retriever
 ```
 ```
