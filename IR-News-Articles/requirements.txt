@@ -1,0 +1,11 @@
+#& "C:/Users/sana.ilyas/AppData/Local/Programs/Python/Python312/python.exe" -m pip install -r requirements.txt       
+pandas
+numpy
+scikit-learn
+nltk
+rank-bm25
+tqdm
+joblib
+matplotlib
+seaborn
+jupyter
