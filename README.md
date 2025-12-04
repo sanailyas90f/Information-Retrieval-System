@@ -212,14 +212,29 @@ Information Retrieval Assignment
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Sequence to run the code:
-python -m pip install -r requirements.txt  
+```
+python -m pip install -r requirements.txt
+```
+```
 python -m src.config
+```
+```
 python -m src.dataloader
+```
+```
 python -m src.test_preprocess
+```
+```
 python -m src.indexer
+```
 python -m src.test_retriever
+```
+```
 python -m src.cli
+```
+```
 python -m src.test_evaluator
+```
 
 --------------------------------------------------------------------------------------------------------------------------------
 
